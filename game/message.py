@@ -1,0 +1,6 @@
+def started() -> None:
+    ...
+
+
+def rules() -> None:
+    ...
