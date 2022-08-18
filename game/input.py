@@ -28,8 +28,3 @@ def confirm() -> bool:
 
 def typing() -> str:
     return input(f'{CARRET} ')
-
-
-if __name__ == "__main__":
-    enter()
-    digit()
